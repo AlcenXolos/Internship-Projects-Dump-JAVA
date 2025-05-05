@@ -1,0 +1,39 @@
+Customer: neighbor
+- Product: Product 1, Quantity: 3, Price: 23.0
+- Product: Product 2, Quantity: 4, Price: 12.0
+Status: Pending, Total: 117.0
+
+Customer: neighbor
+- Product: Product 1.2, Quantity: 12, Price: 3.0
+Status: Pending, Total: 36.0
+
+Customer: neighbor
+- Product: Product 1, Quantity: 3, Price: 23.0
+- Product: Product 2, Quantity: 4, Price: 12.0
+Status: Cancelled, Total: 117.0
+
+Customer: neighbor
+- Product: Product 1.2, Quantity: 12, Price: 3.0
+Status: Cancelled, Total: 36.0
+
+Customer: neighbor, Total: 114.0
+Customer: neighbor, Total: 1.0
+Customer: Alcen Kapitbahay, Status: Pending
+- Product 1 x3 @ 21.0
+- Product 2 x1 @ 1.0
+Total: 64.0
+
+Customer: Alcen Kapitbahay, Status: Pending
+- Product 1.1 x2 @ 2.0
+Total: 4.0
+
+Customer: Alcen Kapitbahay, Status: Cancelled
+- Product 1 x3 @ 21.0
+- Product 2 x1 @ 1.0
+Total: 64.0
+
+Customer: Alcen Kapitbahay, Status: Cancelled
+- Product 1 x3 @ 21.0
+- Product 2 x1 @ 1.0
+Total: 64.0
+
